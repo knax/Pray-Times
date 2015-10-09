@@ -1,0 +1,25 @@
+{
+  "name": "pray-times",
+  "version": "1.0.0",
+  "homepage": "https://github.com/knax/Pray-Times.git",
+  "authors": [
+    "Hasta Ragil <npcmamaz@gmail.com>"
+  ],
+  "description": "Pray times",
+  "main": "PrayTimes.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "pray",
+    "praytimes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
